@@ -14,7 +14,7 @@ header {
 }
 
 header:hover {
-    background: #2c3e50;
+    background: #1a242f; /* Updated for better contrast */
 }
 
 main {
