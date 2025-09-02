@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
     const chartContainer = document.getElementById('chart');
-    // Logic to initialize climate data visualizations
-    // This code runs after the document is fully loaded
+    // Initialize climate data visualizations after document is fully loaded
+    // Logic for setting up the visualizations goes here
 });
